@@ -131,7 +131,7 @@ scipy==1.7.1
 scrapbook==0.5.0
 seaborn==0.11.2
 Send2Trash==1.8.0
-setuptools==58.2.0
+setuptools==70.0.0
 simplejson==3.17.5
 six==1.16.0
 sniffio==1.2.0
