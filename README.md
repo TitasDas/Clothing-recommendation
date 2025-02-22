@@ -1,3 +1,6 @@
+## (Not maintained - setting up a more recent clothing recommender soon)
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
