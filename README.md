@@ -1,4 +1,4 @@
-## (Not maintained - setting up a more recent clothing recommender soon)
+## (Not maintained)
 
 
 <!-- TABLE OF CONTENTS -->
