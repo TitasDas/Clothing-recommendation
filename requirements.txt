@@ -108,7 +108,7 @@ pyarrow==5.0.0
 pycparser==2.20
 pydocumentdb==2.3.5
 Pygments==2.10.0
-PyJWT==2.3.0
+PyJWT==2.4.0
 pymanopt==0.2.5
 pyparsing==2.4.7
 pyrsistent==0.18.0
